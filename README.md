@@ -4,7 +4,7 @@
 </div>
 
 ## Social Media
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/pavel_226677)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue)]("https://t.me/pavel226677")
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-orange)](https://www.instagram.com/pavel_viazovich)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/pavel-viazovich-329219255/)
 
