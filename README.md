@@ -4,7 +4,7 @@
 </div>
 <h1>Follow Me on Social Media</h1>
 
-<head>
+<div id='body' align='center'>
     <title>Social Media Badges</title>
     <style>
         body {
@@ -41,4 +41,4 @@
 <a href="https://www.instagram.com/pavel_viazovich/" class="badge instagram">Instagram</a>
 <a href="https://www.linkedin.com/in/паша-вязович-329219255" class="badge linkedin">LinkedIn</a>
 
-</body>
+</div>
