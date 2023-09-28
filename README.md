@@ -29,7 +29,6 @@
             background-color: #0077b5;
         }
     </style>
-</head>
 <body>
 
 <h4>Follow Me on Social Media</h4>
