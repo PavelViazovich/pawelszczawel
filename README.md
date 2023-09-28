@@ -8,6 +8,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-orange)](https://www.instagram.com/your_instagram_username)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your_linkedin_username)
 
+### About me
+- I'm currently learning **Python 3**
+- Reach me by [LinkedIn](https://www.linkedin.com/in/your_linkedin_username), [Email](mailto:pavelvyazovich67@gmail.com)
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
