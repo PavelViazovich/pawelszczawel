@@ -5,7 +5,6 @@
 <h1>Follow Me on Social Media</h1>
 
 <div id='body' align='center'>
-    <title>Social Media Badges</title>
     <style>
         body {
             font-family: Arial, sans-serif;
