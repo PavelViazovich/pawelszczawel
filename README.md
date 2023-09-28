@@ -2,8 +2,6 @@
   <h1>Hi there, I'm Paweł</h1>
   <h3>I'm learning the Python programming language, live in Poland</h3>
 </div>
-<h1>Follow Me on Social Media</h1>
-
 <div id='body' align='center'>
     <style>
         body {
@@ -34,7 +32,7 @@
 </head>
 <body>
 
-<h1>Follow Me on Social Media</h1>
+<h4>Follow Me on Social Media</h4>
 
 <a href="https://t.me/pavel226677" class="badge telegram">Telegram</a>
 <a href="https://www.instagram.com/pavel_viazovich/" class="badge instagram">Instagram</a>
