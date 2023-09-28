@@ -13,6 +13,26 @@
 - Reach me by [LinkedIn](https://www.linkedin.com/in/pavel-viazovich-329219255), [Email](mailto:pavelvyazovich67@gmail.com)
 - I speak Polish, Russian, and learnig English
 
+### Languages and Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+  title='Python' width='40' height='40'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+  title='HTML' width='40' height='40'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+  title='css' width='40' height='40'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"
+  title='PyCharm' width='40' height='40'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
+  title='VScode' width='40' height='40'/>
+          
+          
+          
+
+          
+
+          
+          
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
