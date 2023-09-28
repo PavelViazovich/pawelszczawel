@@ -24,9 +24,14 @@
   title='PyCharm' width='40' height='40'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
   title='VScode' width='40' height='40'/>
-          
-          
-          
+
+### My stat
+
+<div id="stat" align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PavelViazovich&theme=2077" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PavelViazovich&theme=2077" alt=""/>
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PavelViazovich&theme=2077" alt=""/>
+</div>
 
           
 
