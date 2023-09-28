@@ -4,9 +4,9 @@
 </div>
 
 ## Social Media
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/your_telegram_username)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange)](https://www.instagram.com/your_instagram_username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your_linkedin_username)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/@pavel_226677)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange)](https://www.instagram.com/pavel_viazovich)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/паша-вязович-329219255)
 
 ### About me
 - I'm currently learning **Python 3**
