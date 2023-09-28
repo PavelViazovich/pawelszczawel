@@ -11,6 +11,7 @@
 ### About me
 - I'm currently learning **Python 3**
 - Reach me by [LinkedIn](https://www.linkedin.com/in/pavel-viazovich-329219255), [Email](mailto:pavelvyazovich67@gmail.com)
+- I speak Polish, Russian, and learnig English
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
