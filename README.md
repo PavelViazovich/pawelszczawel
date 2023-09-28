@@ -1,12 +1,13 @@
 <div id='header' align='center'>
-  <h1>Hi there, I'm Paweł</h1>
-  <h3>I'm learning the Python programming language, live in Poland</h3>
+  <h1>My Awesome Repository, I'm Paweł</h1>
+  <h3>Welcome to my awesome repository! This repository contains cool stuff.</h3>
 </div>
-<div id='socials' align='center'>
-  <a href="https://www.linkedin.com/in/паша-вязович-329219255">
-    <img src="https://www.flaticon.com/free-icons/linkedin" alt="LinkedIn"/>
-  </a>
-<a href="https://www.instagram.com/pavel_viazovich/">Instagram</a>
-<a href="https://t.me/pavel226677">Telegram</a>
-  
-</div>
+
+## Social Media
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/your_telegram_username)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange)](https://www.instagram.com/your_instagram_username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your_linkedin_username)
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
