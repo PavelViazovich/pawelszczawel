@@ -33,6 +33,9 @@
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PavelViazovich&theme=2077" alt=""/>
 </div>
 
+### What did I do today on
+-Today, on 29.09.2023, I completed three Python lessons on the topic of loops.
+
           
 
           
